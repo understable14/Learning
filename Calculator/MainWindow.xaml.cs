@@ -69,7 +69,7 @@ namespace Calculator
             }
             else
             {
-                num02 = (num02 * 10) + 3;
+                num02 = (num02 * 10) + 4;
                 txtDisplay.Text = num02.ToString();
             }
         }
